@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyNMtzo3gXKqOEnbuH5C8q8C",
+      "authorship_tag": "ABX9TyNMLrDLm/wWkAM6jtlQuExp",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -27,13 +27,22 @@
       ]
     },
     {
-      "cell_type": "code",
-      "execution_count": null,
+      "cell_type": "markdown",
+      "source": [
+        "So sánh types trong R và trong Python. So sánh sẽ dễ hiểu hơn"
+      ],
       "metadata": {
-        "id": "zR-zBqD-f3I5"
+        "id": "EX5y0EaFhHil"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "Yf-2IAuohH_5"
       },
-      "outputs": [],
-      "source": []
+      "execution_count": null,
+      "outputs": []
     }
   ]
 }
